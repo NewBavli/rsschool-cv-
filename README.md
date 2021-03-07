@@ -1,1 +1,1 @@
-ttps://NewBavli.io/rsschool-cv/cv
+https://NewBavli.io/rsschool-cv/cv
