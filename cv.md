@@ -1,4 +1,3 @@
-
 # Name: Babich Vladislav
 ## Contacts: 
   * E-mail - vlad.babich.97@inbox.ru;
